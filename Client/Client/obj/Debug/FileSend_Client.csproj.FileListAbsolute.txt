@@ -1,0 +1,17 @@
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\bin\Debug\FileSend_Client.exe.config
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\bin\Debug\FileSend_Client.exe
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\bin\Debug\FileSend_Client.pdb
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client.csprojResolveAssemblyReference.cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\MainWindow.g.cs
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\App.g.cs
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client_MarkupCompile.cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client_MarkupCompile.lref
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\MainWindow.baml
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client.g.resources
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client.Properties.Resources.resources
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client.csproj.GenerateResource.Cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client.exe
+C:\Users\SEREY\Google Диск\Study\WebSockets\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client.pdb
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\FileSend_Client\FileSend_Client\bin\Debug\FileSend_Client.exe.config
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client.exe
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\FileSend_Client\FileSend_Client\obj\Debug\FileSend_Client.pdb
