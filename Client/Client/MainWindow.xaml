@@ -9,7 +9,7 @@
     <Grid>
         <TextBox x:Name="IPTextBox" HorizontalAlignment="Left" Height="23" Margin="10,36,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="PortTextBox" HorizontalAlignment="Left" Height="23" Margin="149,36,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="57"/>
-        <Label x:Name="portLabel" Content="Port" HorizontalAlignment="Left" Margin="149,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="portLabel" Content="port" HorizontalAlignment="Left" Margin="149,10,0,0" VerticalAlignment="Top"/>
         <Label x:Name="IpLabel" Content="Server IP" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <Button x:Name="pathButton" Click="PathButton_OnClick" Content="Choose file" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="sendButton" Click="SendButton_OnClick" Content="Send" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top" Width="196" Height="25"/>

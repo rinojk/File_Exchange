@@ -18,3 +18,14 @@ C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\FileSend_Cl
 C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\bin\Debug\Client.exe.config
 C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\Client.exe
 C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\Client.pdb
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\bin\Debug\Client.exe
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\bin\Debug\Client.pdb
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\MainWindow.g.cs
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\App.g.cs
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\MainWindow.baml
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\Client.g.resources
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
