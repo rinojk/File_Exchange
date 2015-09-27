@@ -1,0 +1,4 @@
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\SerializeLib\bin\Release\SerializeLib.dll
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\SerializeLib\bin\Release\SerializeLib.pdb
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\SerializeLib\obj\Release\SerializeLib.dll
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\SerializeLib\obj\Release\SerializeLib.pdb

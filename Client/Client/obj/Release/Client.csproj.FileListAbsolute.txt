@@ -1,0 +1,15 @@
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\bin\Release\Client.exe.config
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\MainWindow.g.cs
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\App.g.cs
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\Client_MarkupCompile.cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\Client_MarkupCompile.lref
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\bin\Release\Client.exe
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\bin\Release\Client.pdb
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\bin\Release\SerializeLib.dll
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\MainWindow.baml
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\Client.g.resources
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\Client.exe
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\Client\obj\Release\Client.pdb

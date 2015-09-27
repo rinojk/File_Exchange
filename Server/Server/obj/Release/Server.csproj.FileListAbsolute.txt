@@ -1,0 +1,15 @@
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\bin\Release\Server.exe.config
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\bin\Release\Server.exe
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\bin\Release\Server.pdb
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\bin\Release\SerializeLib.dll
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\MainWindow.g.cs
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\App.g.cs
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\Server_MarkupCompile.cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\Server_MarkupCompile.lref
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\MainWindow.baml
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\Server.g.resources
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\Server.exe
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Server\Server\obj\Release\Server.pdb

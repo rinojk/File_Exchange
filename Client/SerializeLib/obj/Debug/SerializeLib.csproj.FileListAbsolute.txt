@@ -1,0 +1,5 @@
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\SerializeLib\bin\Debug\SerializeLib.dll
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\SerializeLib\bin\Debug\SerializeLib.pdb
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\SerializeLib\obj\Debug\SerializeLib.csprojResolveAssemblyReference.cache
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\SerializeLib\obj\Debug\SerializeLib.dll
+C:\Users\SEREY\Google Диск\Study\WebSockets\File_Exchange\Client\SerializeLib\obj\Debug\SerializeLib.pdb

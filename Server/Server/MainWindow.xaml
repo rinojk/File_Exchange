@@ -5,13 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FilesSend_Server"
         mc:Ignorable="d"
-        Title="MainWindow" Height="155.972" Width="276.773">
+        Title="MainWindow" Height="161.836" Width="285.568">
     <Grid>
         <TextBox x:Name="portTextBox" HorizontalAlignment="Left" Height="23" Margin="49,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130"/>
         <Button x:Name="startButton" Click="StartButton_OnClick" Content="Start" HorizontalAlignment="Left" Margin="184,11,0,0" VerticalAlignment="Top" Width="75"/>
-        <Label x:Name="label" Content="Port:" HorizontalAlignment="Left" Margin="10,7,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="pathButton" Click="PathButton_OnClick" Content="Choose file to send" HorizontalAlignment="Left" Margin="10,71,0,0" VerticalAlignment="Top" Width="126"/>
-        <TextBox x:Name="pathTextBox"  HorizontalAlignment="Left" Height="23" Margin="143,70,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="116"/>
-        <Button x:Name="sendButton" Content="Send" HorizontalAlignment="Left" Margin="10,96,0,0" VerticalAlignment="Top" Width="249"/>
+        <Label x:Name="label" Content="Port:" HorizontalAlignment="Left" Margin="5,8,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="pathButton" Click="PathButton_OnClick" Content="Choose file to send" HorizontalAlignment="Left" Margin="10,71,0,0" VerticalAlignment="Top" Width="126" IsEnabled="False"/>
+        <TextBox x:Name="pathTextBox"  HorizontalAlignment="Left" Height="23" Margin="143,70,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="116" IsEnabled="False"/>
+        <Button x:Name="sendButton" Content="Send" HorizontalAlignment="Left" Margin="10,96,0,0" VerticalAlignment="Top" Width="249" IsEnabled="False"/>
+        <ProgressBar Name="progressBar" HorizontalAlignment="Left" Height="21" Margin="10,44,0,0" VerticalAlignment="Top" Width="249"/>
     </Grid>
 </Window>

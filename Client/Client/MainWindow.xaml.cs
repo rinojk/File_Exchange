@@ -52,7 +52,8 @@ namespace FileSend_Client
             if (!string.IsNullOrEmpty(IPTextBox.Text) && !string.IsNullOrEmpty(PortTextBox.Text))
             {
                 connection = new Connection(IPTextBox.Text, int.Parse(PortTextBox.Text));
-                connection.Send(path);
+                Task.Run(() => { connection.Send(path, pbStatus); });
+
             }
             else
             {

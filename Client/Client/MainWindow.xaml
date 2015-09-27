@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FileSend_Client"
         mc:Ignorable="d"
-        Title="MainWindow" Height="207.27" Width="224.645">
+        Title="MainWindow" Height="208.049" Width="233.216">
     <Grid>
         <TextBox x:Name="IPTextBox" HorizontalAlignment="Left" Height="23" Margin="10,36,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="PortTextBox" HorizontalAlignment="Left" Height="23" Margin="149,36,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="57"/>
@@ -14,5 +14,6 @@
         <Button x:Name="pathButton" Click="PathButton_OnClick" Content="Choose file" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="sendButton" Click="SendButton_OnClick" Content="Send" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top" Width="196" Height="25"/>
         <TextBox x:Name="pathTextBox"  HorizontalAlignment="Left" Height="23" Margin="90,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="116"/>
+        <ProgressBar HorizontalAlignment="Left" Minimum="0" Maximum="100" Name="pbStatus" Height="20" Margin="10,140,0,0" VerticalAlignment="Top" Width="196"/>
     </Grid>
 </Window>

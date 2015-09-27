@@ -16,6 +16,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Server;
 
 namespace FilesSend_Server
 {
@@ -27,88 +28,19 @@ namespace FilesSend_Server
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private TcpClient client;
-
-        private void Receive(int port)
-        {
-            IPAddress ip = IPAddress.Any;
-            MessageBox.Show(ip.ToString());
-            TcpListener listener = new TcpListener(ip, port);
-            listener.Start();
-
-            byte[] data = new byte[1024];
-            int recBytes;
-
-            while (true)
-            {
-                if (listener.Pending())
-                {
-                    client = listener.AcceptTcpClient();
-                    NetworkStream nStream = client.GetStream();
-
-                    //Int32 bytes = nStream.Read(data, 0, data.Length);
-                    //string responseData = Encoding.ASCII.GetString(data, 0, bytes);
-                    //MessageBox.Show(responseData);
-
-                    Microsoft.Win32.SaveFileDialog dlg = new Microsoft.Win32.SaveFileDialog();
-                    Nullable<bool> result = dlg.ShowDialog();
-                    string filename = String.Empty;
-                    if (result == true)
-                    {
-                        filename = dlg.FileName;
-                    }
-
-
-                    if (!string.IsNullOrEmpty(filename))
-                    {
-                        int totalrecbytes = 0;
-                        FileStream Fs = new FileStream
-         (filename, FileMode.OpenOrCreate, FileAccess.Write);
-                        while (((recBytes = nStream.Read
-             (data, 0, data.Length)) > 0))
-                        {
-                            Fs.Write(data, 0, recBytes);
-                            totalrecbytes += recBytes;
-                            nStream.Flush();
-                        }
-                        
-                        Fs.Close();
-                        MessageBox.Show("Received!");
-                    }
-                    
-                    //byte[] md5 = GetChecksum(filename);
-                    
-                    /*byte[] md5 = Encoding.UTF8.GetBytes("die mazafaka");
-                    nStream.Write(md5, 0, md5.Length);*/
-
-                    nStream.Close();
-                    client.Close();
-                }
-            }
+            
         }
 
         private void StartButton_OnClick(object sender, RoutedEventArgs e)
         {
             int port = int.Parse(portTextBox.Text);
-            Task.Run(() => {Receive(port);});
+            ConnectionServer conn = new ConnectionServer(port);
+            Task.Run(() => {conn.StartListen(progressBar);});
         }
 
         private void PathButton_OnClick(object sender, RoutedEventArgs e)
         {
             
-        }
-
-        private byte[] GetChecksum(string filename)
-        {
-            using (var md5 = MD5.Create())
-            {
-                using (var stream = File.OpenRead(filename))
-                {
-                    return md5.ComputeHash(stream);
-                }
-            }
         }
     }
 }
